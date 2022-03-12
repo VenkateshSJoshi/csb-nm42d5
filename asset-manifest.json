@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://venkateshsjoshi.github.io/csb-nm42d5/static/css/main.aa773141.chunk.css",
+    "main.js": "https://venkateshsjoshi.github.io/csb-nm42d5/static/js/main.1ecbc116.chunk.js",
+    "main.js.map": "https://venkateshsjoshi.github.io/csb-nm42d5/static/js/main.1ecbc116.chunk.js.map",
+    "runtime-main.js": "https://venkateshsjoshi.github.io/csb-nm42d5/static/js/runtime-main.12e91261.js",
+    "runtime-main.js.map": "https://venkateshsjoshi.github.io/csb-nm42d5/static/js/runtime-main.12e91261.js.map",
+    "static/js/2.a8a4c10f.chunk.js": "https://venkateshsjoshi.github.io/csb-nm42d5/static/js/2.a8a4c10f.chunk.js",
+    "static/js/2.a8a4c10f.chunk.js.map": "https://venkateshsjoshi.github.io/csb-nm42d5/static/js/2.a8a4c10f.chunk.js.map",
+    "index.html": "https://venkateshsjoshi.github.io/csb-nm42d5/index.html",
+    "precache-manifest.d7e05975546053a8a9e188a6ec5a8765.js": "https://venkateshsjoshi.github.io/csb-nm42d5/precache-manifest.d7e05975546053a8a9e188a6ec5a8765.js",
+    "service-worker.js": "https://venkateshsjoshi.github.io/csb-nm42d5/service-worker.js",
+    "static/css/main.aa773141.chunk.css.map": "https://venkateshsjoshi.github.io/csb-nm42d5/static/css/main.aa773141.chunk.css.map",
+    "static/js/2.a8a4c10f.chunk.js.LICENSE.txt": "https://venkateshsjoshi.github.io/csb-nm42d5/static/js/2.a8a4c10f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e91261.js",
+    "static/js/2.a8a4c10f.chunk.js",
+    "static/css/main.aa773141.chunk.css",
+    "static/js/main.1ecbc116.chunk.js"
+  ]
+}
